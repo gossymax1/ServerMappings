@@ -1698,6 +1698,12 @@
 	"name": "ValleyPvP Network",
 	"addresses": [
 	    "valleypvp.us"
-  	]
-    }
-]
+	]
+    },
+    {
+	"id": "Nightly",
+	"name": "Nightly",
+	"addresses": [
+	    "Nightlymc.com"
+ 
+ 
